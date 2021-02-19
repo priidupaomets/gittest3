@@ -1,2 +1,5 @@
 # gittest3
-See on giti testimise repo
+See on giti testimise repo.
+
+Uus rida
+
